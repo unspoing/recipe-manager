@@ -25,6 +25,8 @@ how to make it, and what kind of dish it is
 - I want to be able to load my recipes
 
 ## Instructions for End User
+
+- **Run RecipeAppGui to start**
 - To view recipes, click view
 - to add a recipe, click add, then type info into fields and then add recipe
 - To view recipe details, click recipe in recipe viewing mode then click view recipe
