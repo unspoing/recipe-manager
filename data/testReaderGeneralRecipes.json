@@ -1,0 +1,14 @@
+[
+    {
+        "name": "meow",
+        "tags": ["cat", "animal"],
+        "ingredients": ["ears", "fur"],
+        "steps": ["pet", "feed"]
+    },
+    {
+        "name": "bark",
+        "tags": ["dog", "animal"],
+        "ingredients": ["fur", "paws"],
+        "steps": ["walk", "feed"]
+    }
+]
